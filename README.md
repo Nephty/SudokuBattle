@@ -17,7 +17,7 @@ Our keywords are :
 * Freedom of use
 * Bloat-free
 
-We believe in open-source and internet freedom. We do not collect any data apart that you didn't enter by yourself on the application. This means that all we know about you is your profile and no external data is collected. We also ensure that no data will be distributed.
+We believe in open-source and internet freedom. We do not collect any data apart from that that you entered in the application. This means that all we know about you is your profile and no external data is collected. We also ensure that no data will be distributed.
 We want to make the game as simple as possible, keeping it bloat-free. Not requiring any phone number or e-mail and providing an automatic registration system with randomized IDs provides the most unbloated service there could exist.
 
 ## Recommendations
