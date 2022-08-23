@@ -10,7 +10,7 @@ This project wants to be an open-source and free-to-play game where anyone can a
 SudokuBattle is a game where you can play Sudoku offline as a practice and online against other players in a competitive mode.
 History of your games, profile creation and ranking, everything will make your experience as enjoyable as possible.
 
-## Beliefs
+## Beliefs 
 
 Our keywords are :
 * Open-source
