@@ -3,7 +3,7 @@
 ## Introduction
 
 Welcome to the SudokuBattle repository. This repository hosts the "SudokuBattle" project, founded by Nephty and Harbinger.
-This project wants to be an open-source and free-to-use game where anyone can access the source code and have freedom to use as they wish, while remaining unbloated.
+This project wants to be an open-source and free-to-play game where anyone can access the source code and have freedom to use as they wish, while remaining unbloated.
 
 ## Concept
 
